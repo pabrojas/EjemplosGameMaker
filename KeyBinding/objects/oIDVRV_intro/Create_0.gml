@@ -3,4 +3,4 @@
 
 image_alpha = 0;
 time = 0;
-stage = 0
+stage = 0;

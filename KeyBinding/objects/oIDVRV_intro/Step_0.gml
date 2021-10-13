@@ -3,6 +3,8 @@
 
 time += delta_time / 1000; //convert to milliseconds
 
+
+
 if(stage == 0) //Opening Blank 
 {
 	if(time > 1000)//1 second

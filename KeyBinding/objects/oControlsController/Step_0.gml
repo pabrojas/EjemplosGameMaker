@@ -6,7 +6,7 @@ if(modifying == true)
 	if( keyboard_check_pressed(vk_anykey) )
 	{
 		var current_key = keyboard_lastkey;
-		if( current_key != 27 and current_key != 13 ) //Esc
+		if( current_key != 27 and current_key != 13 ) //distinto de Esc && Intro
 		{
 			switch(selected)
 			{

@@ -3,7 +3,7 @@
 
 
 
-/*
+
 global.KEY_LEFT		= vk_left;
 global.KEY_RIGHT	= vk_right;
 
@@ -13,7 +13,7 @@ ini_write_real("Keyoboard Keys", "KEY_RIGHT", global.KEY_RIGHT);
 ini_write_real("Keyoboard Keys", "KEY_LEFT", global.KEY_LEFT);
 
 ini_close();
-*/
+
 
 var kright = 0, kleft = 0;
 
